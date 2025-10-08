@@ -60,10 +60,10 @@ This project includes several stakeholder-ready plots to support the analysis:
 <img src="images/carryout_gender_unmarried.png" alt="Alt text" width="400"/>
 
 - **Grouped Bar Plot**: Acceptance by time of day and gender
-![alt text](carryout_time_gender.png)
+<img src="images/carryout_time_gender.png" alt="Alt text" width="400"/>
 
 - **Heatmap**: Acceptance patterns by time, gender, and age group
-![alt text](heatmap_time_gender_age.png)
+<img src="images/heatmap_time_gender.png" alt="Alt text" width="400"/>
 
 
 All plots are generated using **Seaborn** and **Matplotlib**, with annotations and color palettes optimized for clarity and stakeholder impact.
