@@ -63,7 +63,7 @@ This project includes several stakeholder-ready plots to support the analysis:
 <img src="images/carryout_time_gender.png" alt="Alt text" width="400"/>
 
 - **Heatmap**: Acceptance patterns by time, gender, and age group
-<img src="images/heatmap_time_gender.png" alt="Alt text" width="400"/>
+<img src="images/heatmap_time_gender_age.png" alt="Alt text" width="400"/>
 
 
 All plots are generated using **Seaborn** and **Matplotlib**, with annotations and color palettes optimized for clarity and stakeholder impact.
