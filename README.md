@@ -57,7 +57,7 @@ Despite widespread coupon distribution, acceptance rates vary significantly acro
 This project includes several stakeholder-ready plots to support the analysis:
 
 - **Bar Plot**: Coupon acceptance by gender for unmarried partners
-![alt text](carryout_gender_unmarried.png)
+<img src="images/carryout_gender_unmarried.png" alt="Alt text" width="400"/>
 
 - **Grouped Bar Plot**: Acceptance by time of day and gender
 ![alt text](carryout_time_gender.png)
