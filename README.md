@@ -2,6 +2,7 @@
 
 # 🧠 Coupon Acceptance Analysis – Carry Out & Take Away
 
+## 📍 Jupyter Notebook Link - https://github.com/manishadeodhar-art/Practical-Application-1/blob/main/Practical%20Application%201.ipynb
 ## 📍 Project Overview
 
 This project explores behavioral patterns in coupon acceptance, focusing specifically on the **Carry out & Take away** coupon category. Using descriptive and inferential statistics, we identify key demographic and contextual factors that influence customer decisions. The goal is to uncover actionable insights that can guide targeted marketing strategies and improve campaign performance.
